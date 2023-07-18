@@ -5,7 +5,11 @@
     <classes>
       <class name="com.APITestingExamination.testScripts.AutomationScript">
         <methods>
+          <include name="testcase_5"/>
           <include name="beforesuit"/>
+          <include name="testcase_3"/>
+          <include name="testcase_1"/>
+          <include name="testcase_4"/>
           <include name="beforeclassmethod"/>
           <include name="testcase_2"/>
         </methods>

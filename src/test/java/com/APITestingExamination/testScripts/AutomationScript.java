@@ -4,8 +4,12 @@ import org.testng.annotations.Test;
 
 import org.testng.asserts.SoftAssert;
 
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
+import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.hamcrest.Matchers;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
@@ -16,6 +20,7 @@ import com.APITestingExamination.POJOClasses.CreateNewUserPojo;
 import com.APITestingExamination.POJOClasses.CreateNewUserResponsePojo;
 import com.APITestingExamination.POJOClasses.GetAllUsersResponsePojo;
 import com.APITestingExamination.POJOClasses.UserDataPojo;
+import com.APITestingExamination.Utilities.POIExcelReaderWriterUtility;
 import com.APITestingExamination.helperClasses.BaseClass;
 
 import io.restassured.RestAssured;
@@ -63,11 +68,27 @@ public class AutomationScript extends BaseClass {
 	}
 	
 	@Test
-	public void testcase_2() {
+	public void testcase_2() throws InvalidFormatException, IOException {
 		CreateNewUserPojo newuser = new CreateNewUserPojo();
-		newuser.setName("Arjun");
-		newuser.setAge(25);
-		newuser.setSalary(10000);
+		
+		POIExcelReaderWriterUtility poireader = new POIExcelReaderWriterUtility();
+		ArrayList userdata = poireader.getEmpRecord(1);
+		System.out.println(userdata.get(0));
+		System.out.println(userdata.get(1));
+		System.out.println(userdata.get(2));
+		
+		newuser.setName((String)userdata.get(0));
+		newuser.setSalary((Integer)userdata.get(1));
+		newuser.setAge((Integer)userdata.get(2));
+		
+		log.info("Creating new user with following info:") ; 
+		log.info("Name ="+newuser.getName()) ;
+		log.info("Salary = "+newuser.getSalary());
+		log.info("Age = "+newuser.getAge());
+		
+	//	newuser.setName("Nakul");
+//		newuser.setAge(25);
+//		newuser.setSalary(10000);
 		
 			Response response = RestAssured.given()
 			.contentType(ContentType.JSON)

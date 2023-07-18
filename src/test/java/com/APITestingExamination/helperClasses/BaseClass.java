@@ -5,6 +5,8 @@ import org.apache.logging.log4j.Logger;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
 
+import com.APITestingExamination.Utilities.PropertyUtility;
+
 //import com.restTests.helpers.UserServiceHelper;
 
 import io.restassured.RestAssured;
@@ -20,7 +22,11 @@ protected static Logger log =null ;
 	}
 	@BeforeClass
 	public void beforeclassmethod() {
-		RestAssured.baseURI = "https://dummy.restapiexample.com/api/v1/" ;
+		//RestAssured.baseURI = "https://dummy.restapiexample.com/api/v1/" ;
+		PropertyUtility properties = new PropertyUtility();
+		String baseuri = properties.readPropertyValue("Baseuri");
+		System.out.println("BaseURI from property file = "+baseuri);
+		RestAssured.baseURI = baseuri;
 	}
 	public Response getUsersData() {
 		Response response = RestAssured.given().get("employees") ;

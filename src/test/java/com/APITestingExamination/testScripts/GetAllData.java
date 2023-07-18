@@ -16,9 +16,6 @@ public class GetAllData {
 		 String responsestatus = response.body().jsonPath().getString("status") ;
 		 System.out.println("Response Status code = "+responsestatus);
 		 
-		
-		
-
 	}
 
 
