@@ -1,0 +1,1083 @@
+20230717 12:51:39 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 12:51:42 INFO  [main] testScripts.AutomationScript AutomationScript.java38 - Response status = success
+20230717 12:51:42 INFO  [main] testScripts.AutomationScript AutomationScript.java40 - No. of Records = 24
+20230717 12:53:18 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 12:55:25 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 12:55:25 INFO  [main] Utilities.Listener Listener.java22 - log 4 j ready .
+20230717 12:55:28 INFO  [main] testScripts.AutomationScript AutomationScript.java38 - Response status = success
+20230717 12:55:28 INFO  [main] testScripts.AutomationScript AutomationScript.java40 - No. of data Records = 24
+20230717 12:56:21 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 12:56:21 INFO  [main] Utilities.Listener Listener.java22 - log 4 j ready .
+20230717 13:13:10 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 13:13:10 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 13:13:10 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 13:13:10 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 13:13:11 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:13:14 INFO  [main] testScripts.AutomationScript AutomationScript.java37 - Validation Passed : Response status is : success
+20230717 13:13:14 INFO  [main] testScripts.AutomationScript AutomationScript.java39 - Response status = success
+20230717 13:13:14 INFO  [main] testScripts.AutomationScript AutomationScript.java41 - No. of data Records = 24
+20230717 13:13:14 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:13:14 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:13:14 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:13:14 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:40:02 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 13:40:02 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 13:40:02 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 13:40:02 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 13:40:03 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:40:07 INFO  [main] testScripts.AutomationScript AutomationScript.java65 - Request sent: POST create 
+20230717 13:40:07 INFO  [main] testScripts.AutomationScript AutomationScript.java67 - Verified : Status code is 200
+20230717 13:40:08 INFO  [main] testScripts.AutomationScript AutomationScript.java69 - Verified: Response body status is : success
+20230717 13:40:08 INFO  [main] testScripts.AutomationScript AutomationScript.java72 - New user id = 1470
+20230717 13:40:08 INFO  [main] Utilities.Listener Listener.java32 - Listener.onTestSucess() called
+20230717 13:40:08 INFO  [main] Utilities.Listener Listener.java43 - Listener.onFinish() called
+20230717 13:43:41 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 13:43:41 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 13:43:41 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 13:43:41 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 13:43:42 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:43:42 ERROR [main] Utilities.Listener Listener.java38 - Listener.onTestFailure() called
+20230717 13:43:42 INFO  [main] Utilities.Listener Listener.java43 - Listener.onFinish() called
+20230717 13:44:01 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 13:44:01 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 13:44:01 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 13:44:02 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 13:44:03 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:44:09 INFO  [main] testScripts.AutomationScript AutomationScript.java41 - Validation Passed : Response status is : success
+20230717 13:44:09 INFO  [main] testScripts.AutomationScript AutomationScript.java43 - Response status = success
+20230717 13:44:10 INFO  [main] testScripts.AutomationScript AutomationScript.java45 - No. of data Records = 24
+20230717 13:44:10 INFO  [main] Utilities.Listener Listener.java32 - Listener.onTestSucess() called
+20230717 13:44:10 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:44:11 INFO  [main] testScripts.AutomationScript AutomationScript.java65 - Request sent: POST create 
+20230717 13:44:11 ERROR [main] Utilities.Listener Listener.java38 - Listener.onTestFailure() called
+20230717 13:44:11 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:44:11 INFO  [main] Utilities.Listener Listener.java32 - Listener.onTestSucess() called
+20230717 13:44:11 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:44:11 INFO  [main] Utilities.Listener Listener.java32 - Listener.onTestSucess() called
+20230717 13:44:11 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:44:11 INFO  [main] Utilities.Listener Listener.java32 - Listener.onTestSucess() called
+20230717 13:44:11 INFO  [main] Utilities.Listener Listener.java43 - Listener.onFinish() called
+20230717 13:44:29 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 13:44:29 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 13:44:29 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 13:44:30 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 13:44:31 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:44:34 INFO  [main] testScripts.AutomationScript AutomationScript.java65 - Request sent: POST create 
+20230717 13:44:34 ERROR [main] Utilities.Listener Listener.java38 - Listener.onTestFailure() called
+20230717 13:44:34 INFO  [main] Utilities.Listener Listener.java43 - Listener.onFinish() called
+20230717 13:44:46 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 13:44:46 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 13:44:46 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 13:44:46 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 13:44:48 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:44:52 INFO  [main] testScripts.AutomationScript AutomationScript.java65 - Request sent: POST create 
+20230717 13:44:52 ERROR [main] Utilities.Listener Listener.java38 - Listener.onTestFailure() called
+20230717 13:44:53 INFO  [main] Utilities.Listener Listener.java43 - Listener.onFinish() called
+20230717 13:53:12 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 13:53:12 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 13:53:12 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 13:53:13 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 13:53:13 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:53:15 INFO  [main] testScripts.AutomationScript AutomationScript.java65 - Request sent: POST create 
+20230717 13:53:15 INFO  [main] testScripts.AutomationScript AutomationScript.java67 - Verified : Status code is 200
+20230717 13:53:16 INFO  [main] testScripts.AutomationScript AutomationScript.java69 - Verified: Response body status is : success
+20230717 13:53:16 INFO  [main] testScripts.AutomationScript AutomationScript.java75 - New user id = 9316
+20230717 13:53:16 INFO  [main] testScripts.AutomationScript AutomationScript.java79 - Verified : name,salary and age data from response is as same as in the request
+20230717 13:53:16 INFO  [main] testScripts.AutomationScript AutomationScript.java88 - Created New User with details :
+20230717 13:53:16 INFO  [main] testScripts.AutomationScript AutomationScript.java89 - Arjun
+20230717 13:53:16 INFO  [main] testScripts.AutomationScript AutomationScript.java90 - 10000
+20230717 13:53:16 INFO  [main] testScripts.AutomationScript AutomationScript.java91 - 25
+20230717 13:53:16 INFO  [main] Utilities.Listener Listener.java32 - Listener.onTestSucess() called
+20230717 13:53:16 INFO  [main] Utilities.Listener Listener.java43 - Listener.onFinish() called
+20230717 13:54:46 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 13:54:46 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 13:54:46 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 13:54:46 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 13:54:46 INFO  [main] Utilities.Listener Listener.java26 - Listener.onTestStart() called
+20230717 13:54:46 INFO  [main] Utilities.Listener Listener.java27 - Testing ---> testcase_2
+20230717 13:54:48 INFO  [main] testScripts.AutomationScript AutomationScript.java65 - Request sent: POST create 
+20230717 13:54:48 INFO  [main] testScripts.AutomationScript AutomationScript.java67 - Verified : Status code is 200
+20230717 13:54:49 INFO  [main] testScripts.AutomationScript AutomationScript.java69 - Verified: Response body status is : success
+20230717 13:54:49 INFO  [main] testScripts.AutomationScript AutomationScript.java75 - New user id = 7080
+20230717 13:54:49 INFO  [main] testScripts.AutomationScript AutomationScript.java79 - Verified : name,salary and age data from response is as same as in the request
+20230717 13:54:49 INFO  [main] testScripts.AutomationScript AutomationScript.java88 - Created New User with details :
+20230717 13:54:49 INFO  [main] testScripts.AutomationScript AutomationScript.java89 - Arjun
+20230717 13:54:49 INFO  [main] testScripts.AutomationScript AutomationScript.java90 - 10000
+20230717 13:54:49 INFO  [main] testScripts.AutomationScript AutomationScript.java91 - 25
+20230717 13:54:49 INFO  [main] Utilities.Listener Listener.java33 - Listener.onTestSucess() called
+20230717 13:54:49 INFO  [main] Utilities.Listener Listener.java44 - Listener.onFinish() called
+20230717 13:56:36 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 13:56:36 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 13:56:36 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 13:56:36 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 13:56:37 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 13:56:37 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 13:56:37 INFO  [main] Utilities.Listener Listener.java29 - Started Testing ---> testcase_1
+20230717 13:56:39 INFO  [main] testScripts.AutomationScript AutomationScript.java41 - Validation Passed : Response status is : success
+20230717 13:56:39 INFO  [main] testScripts.AutomationScript AutomationScript.java43 - Response status = success
+20230717 13:56:39 INFO  [main] testScripts.AutomationScript AutomationScript.java45 - No. of data Records = 24
+20230717 13:56:39 INFO  [main] Utilities.Listener Listener.java35 - Listener.onTestSucess() called
+20230717 13:56:39 INFO  [main] Utilities.Listener Listener.java36 - PASSED : testcase_1
+20230717 13:56:39 INFO  [main] Utilities.Listener Listener.java37 - -------------------------------------------
+20230717 13:56:39 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 13:56:39 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 13:56:39 INFO  [main] Utilities.Listener Listener.java29 - Started Testing ---> testcase_2
+20230717 13:56:39 INFO  [main] testScripts.AutomationScript AutomationScript.java65 - Request sent: POST create 
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java43 - Listener.onTestFailure() called
+20230717 13:56:40 ERROR [main] Utilities.Listener Listener.java44 - FAILED : testcase_2
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java45 - -------------------------------------------
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java29 - Started Testing ---> testcase_3
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java35 - Listener.onTestSucess() called
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java36 - PASSED : testcase_3
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java37 - -------------------------------------------
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java29 - Started Testing ---> testcase_4
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java35 - Listener.onTestSucess() called
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java36 - PASSED : testcase_4
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java37 - -------------------------------------------
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java29 - Started Testing ---> testcase_5
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java35 - Listener.onTestSucess() called
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java36 - PASSED : testcase_5
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java37 - -------------------------------------------
+20230717 13:56:40 INFO  [main] Utilities.Listener Listener.java50 - Listener.onFinish() called
+20230717 13:58:04 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 13:58:04 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 13:58:04 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 13:58:04 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 13:58:05 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 13:58:05 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 13:58:05 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_1
+20230717 13:58:07 INFO  [main] testScripts.AutomationScript AutomationScript.java41 - Validation Passed : Response status is : success
+20230717 13:58:07 INFO  [main] testScripts.AutomationScript AutomationScript.java43 - Response status = success
+20230717 13:58:07 INFO  [main] testScripts.AutomationScript AutomationScript.java45 - No. of data Records = 24
+20230717 13:58:07 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 13:58:07 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_1
+20230717 13:58:07 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 13:58:07 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 13:58:07 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 13:58:07 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 13:58:08 INFO  [main] testScripts.AutomationScript AutomationScript.java65 - Request sent: POST create 
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 13:58:08 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_3
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_4
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_4
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_5
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_5
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 13:58:08 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 14:15:42 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 14:15:42 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 14:15:42 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 14:15:42 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 14:15:43 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 14:15:43 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 14:15:43 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_1
+20230717 14:15:45 INFO  [main] testScripts.AutomationScript AutomationScript.java42 - Pass: Response code validation done using baseclass method.
+20230717 14:15:46 INFO  [main] testScripts.AutomationScript AutomationScript.java46 - Validation Passed : Response status is : success
+20230717 14:15:46 INFO  [main] testScripts.AutomationScript AutomationScript.java48 - Response status = success
+20230717 14:15:46 INFO  [main] testScripts.AutomationScript AutomationScript.java50 - No. of data Records = 24
+20230717 14:15:46 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 14:15:46 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_1
+20230717 14:15:46 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 14:15:46 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 14:16:05 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 14:16:05 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 14:16:05 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 14:16:05 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 14:16:06 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 14:16:06 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 14:16:06 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_1
+20230717 14:16:07 INFO  [main] testScripts.AutomationScript AutomationScript.java42 - Pass: Response code validation done using baseclass method.
+20230717 14:16:07 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 14:16:07 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_1
+20230717 14:16:07 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 14:16:08 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 14:18:21 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 14:18:21 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 14:18:21 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 14:18:21 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 14:18:21 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 14:18:21 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 14:18:21 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_1
+20230717 14:18:23 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 14:18:23 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_1
+20230717 14:18:23 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 14:18:23 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 14:19:04 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 14:19:04 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 14:19:04 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 14:19:05 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 14:19:05 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 14:19:05 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 14:19:05 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_1
+20230717 14:19:07 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 14:19:07 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_1
+20230717 14:19:07 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 14:19:07 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 14:20:03 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 14:20:03 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 14:20:03 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 14:20:03 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 14:20:03 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 14:20:03 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 14:20:03 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 14:20:05 INFO  [main] testScripts.AutomationScript AutomationScript.java71 - Request sent: POST create 
+20230717 14:20:05 INFO  [main] testScripts.AutomationScript AutomationScript.java73 - Verified : Status code is 200
+20230717 14:20:06 INFO  [main] testScripts.AutomationScript AutomationScript.java75 - Verified: Response body status is : success
+20230717 14:20:06 INFO  [main] testScripts.AutomationScript AutomationScript.java81 - New user id = 2237
+20230717 14:20:06 INFO  [main] testScripts.AutomationScript AutomationScript.java85 - Verified : name,salary and age data from response is as same as in the request
+20230717 14:20:06 INFO  [main] testScripts.AutomationScript AutomationScript.java94 - Created New User with details :
+20230717 14:20:06 INFO  [main] testScripts.AutomationScript AutomationScript.java95 - Arjun
+20230717 14:20:06 INFO  [main] testScripts.AutomationScript AutomationScript.java96 - 10000
+20230717 14:20:06 INFO  [main] testScripts.AutomationScript AutomationScript.java97 - 25
+20230717 14:20:06 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 14:20:06 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_2
+20230717 14:20:06 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 14:20:06 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 14:20:36 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 14:20:36 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 14:20:36 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 14:20:36 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 14:20:37 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 14:20:37 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 14:20:37 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_1
+20230717 14:20:38 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 14:20:38 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_1
+20230717 14:20:38 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 14:20:38 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 14:25:41 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 14:25:41 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 14:25:41 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 14:25:41 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 14:25:42 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 14:25:42 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 14:25:42 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 14:25:43 INFO  [main] testScripts.AutomationScript AutomationScript.java74 - Request sent: POST create 
+20230717 14:25:43 INFO  [main] testScripts.AutomationScript AutomationScript.java76 - Verified : Status code is 200
+20230717 14:25:44 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Verified: Response body status is : success
+20230717 14:25:44 INFO  [main] testScripts.AutomationScript AutomationScript.java84 - New user id = 7622
+20230717 14:25:44 INFO  [main] testScripts.AutomationScript AutomationScript.java89 - Verified : name,salary and age data from response is as same as in the request
+20230717 14:25:44 INFO  [main] testScripts.AutomationScript AutomationScript.java98 - Created New User with details :
+20230717 14:25:44 INFO  [main] testScripts.AutomationScript AutomationScript.java99 - Arjun
+20230717 14:25:44 INFO  [main] testScripts.AutomationScript AutomationScript.java100 - 10000
+20230717 14:25:44 INFO  [main] testScripts.AutomationScript AutomationScript.java101 - 25
+20230717 14:25:44 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 14:25:44 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_2
+20230717 14:25:44 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 14:25:44 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 14:26:35 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 14:26:35 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 14:26:35 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 14:26:35 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 14:26:36 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 14:26:36 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 14:26:36 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 14:26:38 INFO  [main] testScripts.AutomationScript AutomationScript.java74 - Request sent: POST create 
+20230717 14:26:38 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 14:26:38 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 14:26:38 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 14:26:38 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 14:26:50 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 14:26:50 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 14:26:50 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 14:26:51 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 14:26:51 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 14:26:51 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 14:26:51 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 14:26:53 INFO  [main] testScripts.AutomationScript AutomationScript.java74 - Request sent: POST create 
+20230717 14:26:53 INFO  [main] testScripts.AutomationScript AutomationScript.java76 - Verified : Status code is 200
+20230717 14:26:54 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Verified: Response body status is : success
+20230717 14:26:54 INFO  [main] testScripts.AutomationScript AutomationScript.java84 - New user id = 9389
+20230717 14:26:54 INFO  [main] testScripts.AutomationScript AutomationScript.java90 - Verified : name,salary and age data from response is as same as in the request
+20230717 14:26:54 INFO  [main] testScripts.AutomationScript AutomationScript.java99 - Created New User with details :
+20230717 14:26:54 INFO  [main] testScripts.AutomationScript AutomationScript.java100 - Arjun
+20230717 14:26:54 INFO  [main] testScripts.AutomationScript AutomationScript.java101 - 10000
+20230717 14:26:54 INFO  [main] testScripts.AutomationScript AutomationScript.java102 - 25
+20230717 14:26:54 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 14:26:54 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_2
+20230717 14:26:54 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 14:26:54 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 14:28:05 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 14:28:05 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 14:28:05 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 14:28:05 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 14:28:05 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 14:28:05 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 14:28:05 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 14:28:07 INFO  [main] testScripts.AutomationScript AutomationScript.java74 - Request sent: POST create 
+20230717 14:28:07 INFO  [main] testScripts.AutomationScript AutomationScript.java76 - Verified : Status code is 200
+20230717 14:28:08 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Verified: Response body status is : success
+20230717 14:28:08 INFO  [main] testScripts.AutomationScript AutomationScript.java84 - New user id = 8197
+20230717 14:28:08 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 14:28:08 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 14:28:08 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 14:28:08 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 14:39:22 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 14:39:22 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 14:39:22 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 14:39:22 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 14:39:22 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 14:39:22 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 14:39:22 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_1
+20230717 14:39:25 INFO  [main] testScripts.AutomationScript AutomationScript.java50 - Validation Passed : Response status is : success
+20230717 14:39:25 INFO  [main] testScripts.AutomationScript AutomationScript.java52 - Response status = success
+20230717 14:39:25 INFO  [main] testScripts.AutomationScript AutomationScript.java54 - No. of data Records = 24
+20230717 14:39:26 INFO  [main] testScripts.AutomationScript AutomationScript.java58 - Response status from pojo = success
+20230717 14:39:26 INFO  [main] testScripts.AutomationScript AutomationScript.java59 - Response Message from pojo = Successfully! All records has been fetched.
+20230717 14:39:26 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 14:39:26 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_1
+20230717 14:39:26 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 14:39:26 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:06:51 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:06:51 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:06:51 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:06:51 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:06:52 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:06:52 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:06:52 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:06:52 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 15:06:52 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_3
+20230717 15:06:52 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 15:06:52 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:07:13 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:07:13 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:07:13 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:07:13 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:07:14 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:07:14 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:07:14 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:07:14 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 15:07:14 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_3
+20230717 15:07:14 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 15:07:14 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:10:54 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:10:54 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:10:54 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:10:54 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:10:54 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:10:54 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:10:54 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:10:56 INFO  [main] testScripts.AutomationScript AutomationScript.java115 - Response status code = 405
+20230717 15:10:56 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:10:56 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_3
+20230717 15:10:56 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:10:56 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:11:39 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:11:39 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:11:39 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:11:40 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:11:40 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:11:40 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:11:40 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 15:11:42 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 15:11:42 INFO  [main] testScripts.AutomationScript AutomationScript.java80 - Verified : Status code is 200
+20230717 15:11:42 INFO  [main] testScripts.AutomationScript AutomationScript.java82 - Verified: Response body status is : success
+20230717 15:11:43 INFO  [main] testScripts.AutomationScript AutomationScript.java88 - New user id = 1147
+20230717 15:11:43 INFO  [main] testScripts.AutomationScript AutomationScript.java96 - Verified : name,salary and age data from response is as same as in the request
+20230717 15:11:43 INFO  [main] testScripts.AutomationScript AutomationScript.java105 - Created New User with details :
+20230717 15:11:43 INFO  [main] testScripts.AutomationScript AutomationScript.java106 - Arjun
+20230717 15:11:43 INFO  [main] testScripts.AutomationScript AutomationScript.java107 - 10000
+20230717 15:11:43 INFO  [main] testScripts.AutomationScript AutomationScript.java108 - 25
+20230717 15:11:43 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 15:11:43 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_2
+20230717 15:11:43 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 15:11:43 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:11:43 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:11:43 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:11:43 INFO  [main] testScripts.AutomationScript AutomationScript.java115 - Response status code = 405
+20230717 15:11:43 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:11:43 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_3
+20230717 15:11:43 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:11:43 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:12:19 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:12:19 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:12:19 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:12:19 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:12:20 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:12:20 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:12:20 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 15:12:21 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 15:12:21 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:12:21 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 15:12:21 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:12:22 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:12:34 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:12:34 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:12:34 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:12:34 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:12:35 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:12:35 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:12:35 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 15:12:36 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 15:12:37 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:12:37 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 15:12:37 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:12:37 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:12:42 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:12:42 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:12:42 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:12:42 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:12:43 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:12:43 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:12:43 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 15:12:44 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 15:12:44 INFO  [main] testScripts.AutomationScript AutomationScript.java80 - Verified : Status code is 200
+20230717 15:12:45 INFO  [main] testScripts.AutomationScript AutomationScript.java82 - Verified: Response body status is : success
+20230717 15:12:45 INFO  [main] testScripts.AutomationScript AutomationScript.java88 - New user id = 9200
+20230717 15:12:45 INFO  [main] testScripts.AutomationScript AutomationScript.java96 - Verified : name,salary and age data from response is as same as in the request
+20230717 15:12:45 INFO  [main] testScripts.AutomationScript AutomationScript.java105 - Created New User with details :
+20230717 15:12:45 INFO  [main] testScripts.AutomationScript AutomationScript.java106 - Arjun
+20230717 15:12:45 INFO  [main] testScripts.AutomationScript AutomationScript.java107 - 10000
+20230717 15:12:45 INFO  [main] testScripts.AutomationScript AutomationScript.java108 - 25
+20230717 15:12:45 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 15:12:45 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_2
+20230717 15:12:45 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 15:12:45 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:13:03 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:13:03 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:13:03 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:13:04 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:13:04 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:13:04 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:13:04 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 15:13:06 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 15:13:06 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:13:06 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 15:13:06 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:13:06 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:13:06 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:13:06 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:13:06 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:13:16 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:13:16 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:13:16 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:13:16 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:13:17 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:13:17 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:13:17 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_4
+20230717 15:13:17 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 15:13:17 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_4
+20230717 15:13:17 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 15:13:17 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:13:27 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:13:28 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:13:28 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:13:28 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:13:28 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:13:28 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:13:28 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 15:13:30 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 15:13:30 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:13:30 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 15:13:30 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:13:30 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:13:30 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:13:30 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:13:31 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:50:03 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:50:03 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:50:03 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:50:03 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:50:04 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:50:04 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:50:04 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 15:50:06 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 15:50:06 INFO  [main] testScripts.AutomationScript AutomationScript.java80 - Verified : Status code is 200
+20230717 15:50:07 INFO  [main] testScripts.AutomationScript AutomationScript.java82 - Verified: Response body status is : success
+20230717 15:50:07 INFO  [main] testScripts.AutomationScript AutomationScript.java88 - New user id = 7021
+20230717 15:50:07 INFO  [main] testScripts.AutomationScript AutomationScript.java96 - Verified : name,salary and age data from response is as same as in the request
+20230717 15:50:07 INFO  [main] testScripts.AutomationScript AutomationScript.java105 - Created New User with details :
+20230717 15:50:07 INFO  [main] testScripts.AutomationScript AutomationScript.java106 - Arjun
+20230717 15:50:07 INFO  [main] testScripts.AutomationScript AutomationScript.java107 - 10000
+20230717 15:50:07 INFO  [main] testScripts.AutomationScript AutomationScript.java108 - 25
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_2
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_1
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:50:07 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_1
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_4
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_4
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_5
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_5
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:50:07 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:50:08 INFO  [main] testScripts.AutomationScript AutomationScript.java115 - Response status code = 405
+20230717 15:50:08 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:50:08 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_3
+20230717 15:50:08 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:50:08 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:51:20 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:51:20 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:51:20 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:51:20 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:51:21 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:51:21 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:51:21 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:51:23 INFO  [main] testScripts.AutomationScript AutomationScript.java115 - Response status code = 405
+20230717 15:51:23 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:51:23 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_3
+20230717 15:51:23 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:51:23 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:54:42 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:54:42 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:54:42 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:54:42 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:54:42 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:54:42 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:54:42 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_4
+20230717 15:54:42 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 15:54:42 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_4
+20230717 15:54:42 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 15:54:42 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:54:46 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:54:46 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:54:46 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:54:47 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:54:47 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:54:47 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:54:47 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:54:49 INFO  [main] testScripts.AutomationScript AutomationScript.java115 - Response status code = 200
+20230717 15:54:49 INFO  [main] testScripts.AutomationScript AutomationScript.java117 - Validated successfully : Status code is 200
+20230717 15:54:49 INFO  [main] testScripts.AutomationScript AutomationScript.java119 - Response body status = success
+20230717 15:54:49 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 15:54:49 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_3
+20230717 15:54:49 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 15:54:49 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:58:03 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:58:03 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:58:03 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:58:03 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:58:03 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:58:03 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:58:03 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 15:58:05 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:58:05 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 15:58:05 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:58:05 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:58:05 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:58:05 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:58:05 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:58:19 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:58:19 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:58:19 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:58:19 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:58:19 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:58:19 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:58:19 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 15:58:21 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:58:21 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 15:58:21 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:58:21 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:58:21 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:58:21 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:58:21 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:58:44 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:58:44 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:58:44 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:58:44 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:58:44 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:58:44 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:58:44 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 15:58:46 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:58:46 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 15:58:46 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:58:46 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:58:46 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:58:46 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:58:46 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 15:58:52 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 15:58:52 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 15:58:52 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 15:58:52 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 15:58:52 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 15:58:52 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 15:58:52 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 15:58:53 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 15:58:53 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_3
+20230717 15:58:53 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 15:58:53 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 16:02:55 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:02:55 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 16:02:55 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 16:02:55 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 16:02:55 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 16:02:55 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 16:02:55 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 16:02:57 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 16:02:57 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_3
+20230717 16:02:57 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 16:02:57 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 16:04:56 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:04:56 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 16:04:56 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 16:04:56 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 16:04:56 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 16:04:56 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 16:04:56 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 16:04:58 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 16:04:58 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_3
+20230717 16:04:58 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 16:04:58 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 16:05:32 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:05:32 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 16:05:32 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 16:05:32 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 16:05:33 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 16:05:33 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 16:05:33 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 16:05:34 INFO  [main] testScripts.AutomationScript AutomationScript.java118 - Response status code = 200
+20230717 16:05:34 INFO  [main] testScripts.AutomationScript AutomationScript.java120 - Validated successfully : Status code is 200
+20230717 16:05:35 INFO  [main] testScripts.AutomationScript AutomationScript.java122 - Response body status = success
+20230717 16:05:35 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 16:05:35 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_3
+20230717 16:05:35 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 16:05:35 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 16:07:05 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:07:05 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 16:07:05 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 16:07:05 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 16:07:06 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 16:07:06 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 16:07:06 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 16:07:07 INFO  [main] testScripts.AutomationScript AutomationScript.java118 - Response status code = 200
+20230717 16:07:07 INFO  [main] testScripts.AutomationScript AutomationScript.java120 - Validated successfully : Status code is 200
+20230717 16:07:08 INFO  [main] testScripts.AutomationScript AutomationScript.java122 - Response body status = success
+20230717 16:07:08 INFO  [main] testScripts.AutomationScript AutomationScript.java125 - Passed Record deleted for the same id we entered : 7999
+20230717 16:07:08 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 16:07:08 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_3
+20230717 16:07:08 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 16:07:08 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 16:08:24 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:08:24 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 16:08:24 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 16:08:24 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 16:08:24 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 16:08:24 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 16:08:24 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 16:08:26 INFO  [main] testScripts.AutomationScript AutomationScript.java118 - Response status code = 200
+20230717 16:08:26 INFO  [main] testScripts.AutomationScript AutomationScript.java120 - Validated successfully : Status code is 200
+20230717 16:08:27 INFO  [main] testScripts.AutomationScript AutomationScript.java122 - Response body status = success
+20230717 16:08:27 INFO  [main] testScripts.AutomationScript AutomationScript.java125 - Passed Record deleted for the same id we entered : 7999
+20230717 16:08:27 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 16:08:27 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_3
+20230717 16:08:27 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 16:08:27 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 16:11:24 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:11:24 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 16:11:24 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 16:11:24 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:11:24 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 16:11:24 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 16:11:24 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 16:11:24 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 16:11:25 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 16:11:25 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 16:11:25 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 16:11:25 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 16:11:25 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 16:11:25 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 16:11:27 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 16:11:27 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 16:11:27 INFO  [main] testScripts.AutomationScript AutomationScript.java80 - Verified : Status code is 200
+20230717 16:11:27 INFO  [main] testScripts.AutomationScript AutomationScript.java80 - Verified : Status code is 200
+20230717 16:11:27 INFO  [main] testScripts.AutomationScript AutomationScript.java82 - Verified: Response body status is : success
+20230717 16:11:27 INFO  [main] testScripts.AutomationScript AutomationScript.java82 - Verified: Response body status is : success
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java88 - New user id = 1157
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java96 - Verified : name,salary and age data from response is as same as in the request
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java88 - New user id = 103
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java96 - Verified : name,salary and age data from response is as same as in the request
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java105 - Created New User with details :
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java106 - Arjun
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java107 - 10000
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java108 - 25
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java105 - Created New User with details :
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java106 - Arjun
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java107 - 10000
+20230717 16:11:28 INFO  [main] testScripts.AutomationScript AutomationScript.java108 - 25
+20230717 16:11:28 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 16:11:28 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_2
+20230717 16:11:28 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 16:11:28 INFO  [main] Utilities.Listener Listener.java34 - Listener.onTestSucess() called
+20230717 16:11:28 INFO  [main] Utilities.Listener Listener.java35 - PASSED : testcase_2
+20230717 16:11:28 INFO  [main] Utilities.Listener Listener.java36 - -------------------------------------------
+20230717 16:11:28 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 16:11:28 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 16:11:44 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:11:44 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 16:11:44 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 16:11:45 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 16:11:45 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 16:11:45 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 16:11:45 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 16:11:47 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 16:11:47 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 16:11:47 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 16:11:47 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 16:11:47 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 16:11:47 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 16:11:47 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 16:11:47 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 16:11:54 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:11:54 INFO  [main] Utilities.Listener Listener.java18 - log 4 j ready .
+20230717 16:11:54 INFO  [main] Utilities.Listener Listener.java19 - Listener.onStart() called
+20230717 16:11:54 INFO  [main] Utilities.Listener Listener.java22 - Extent Report ready.. 
+20230717 16:11:55 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 16:11:55 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 16:11:55 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_2
+20230717 16:11:56 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 16:11:56 INFO  [main] Utilities.Listener Listener.java42 - Listener.onTestFailure() called
+20230717 16:11:56 ERROR [main] Utilities.Listener Listener.java43 - FAILED : testcase_2
+20230717 16:11:56 INFO  [main] Utilities.Listener Listener.java44 - -------------------------------------------
+20230717 16:11:56 INFO  [main] Utilities.Listener Listener.java26 - -------------------------------------------
+20230717 16:11:56 INFO  [main] Utilities.Listener Listener.java27 - Listener.onTestStart() called
+20230717 16:11:56 INFO  [main] Utilities.Listener Listener.java28 - Started Testing ---> testcase_3
+20230717 16:11:56 INFO  [main] Utilities.Listener Listener.java49 - Listener.onFinish() called
+20230717 16:18:27 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:18:27 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 16:18:27 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 16:18:27 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 16:18:28 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:18:28 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:18:28 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_2
+20230717 16:18:30 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 16:18:30 INFO  [main] testScripts.AutomationScript AutomationScript.java80 - Verified : Status code is 200
+20230717 16:18:31 INFO  [main] testScripts.AutomationScript AutomationScript.java82 - Verified: Response body status is : success
+20230717 16:18:31 INFO  [main] testScripts.AutomationScript AutomationScript.java88 - New user id = 7924
+20230717 16:18:31 INFO  [main] testScripts.AutomationScript AutomationScript.java96 - Verified : name,salary and age data from response is as same as in the request
+20230717 16:18:31 INFO  [main] testScripts.AutomationScript AutomationScript.java105 - Created New User with details :
+20230717 16:18:31 INFO  [main] testScripts.AutomationScript AutomationScript.java106 - Arjun
+20230717 16:18:31 INFO  [main] testScripts.AutomationScript AutomationScript.java107 - 10000
+20230717 16:18:31 INFO  [main] testScripts.AutomationScript AutomationScript.java108 - 25
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java36 - Listener.onTestSucess() called
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java37 - PASSED : testcase_2
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java38 - -------------------------------------------
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_1
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:18:31 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_1
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_4
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java36 - Listener.onTestSucess() called
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java37 - PASSED : testcase_4
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java38 - -------------------------------------------
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_5
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java36 - Listener.onTestSucess() called
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java37 - PASSED : testcase_5
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java38 - -------------------------------------------
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_3
+20230717 16:18:31 INFO  [main] testScripts.AutomationScript AutomationScript.java118 - Response status code = 429
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:18:31 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_3
+20230717 16:18:31 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:18:32 INFO  [main] Utilities.Listener Listener.java58 - Listener.onFinish() called
+20230717 16:36:25 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:36:25 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 16:36:25 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 16:36:26 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 16:36:26 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:36:26 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:36:26 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_4
+20230717 16:36:28 INFO  [main] testScripts.AutomationScript AutomationScript.java136 - Validated : Response status code is 400
+20230717 16:36:28 INFO  [main] testScripts.AutomationScript AutomationScript.java138 - Response body status = error
+20230717 16:36:28 INFO  [main] Utilities.Listener Listener.java36 - Listener.onTestSucess() called
+20230717 16:36:28 INFO  [main] Utilities.Listener Listener.java37 - PASSED : testcase_4
+20230717 16:36:28 INFO  [main] Utilities.Listener Listener.java38 - -------------------------------------------
+20230717 16:36:29 INFO  [main] Utilities.Listener Listener.java59 - Listener.onFinish() called
+20230717 16:38:08 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:38:08 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 16:38:08 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 16:38:08 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 16:38:09 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:38:09 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:38:09 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_4
+20230717 16:38:10 INFO  [main] testScripts.AutomationScript AutomationScript.java136 - Validated : Response status code is 400
+20230717 16:38:11 INFO  [main] testScripts.AutomationScript AutomationScript.java138 - Response body status = error
+20230717 16:38:11 INFO  [main] testScripts.AutomationScript AutomationScript.java141 - Response message data = Not found record
+20230717 16:38:11 INFO  [main] Utilities.Listener Listener.java36 - Listener.onTestSucess() called
+20230717 16:38:11 INFO  [main] Utilities.Listener Listener.java37 - PASSED : testcase_4
+20230717 16:38:11 INFO  [main] Utilities.Listener Listener.java38 - -------------------------------------------
+20230717 16:38:11 INFO  [main] Utilities.Listener Listener.java59 - Listener.onFinish() called
+20230717 16:48:07 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:48:07 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 16:48:07 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 16:48:07 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 16:48:07 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:48:07 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:48:07 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_5
+20230717 16:48:09 INFO  [main] testScripts.AutomationScript AutomationScript.java150 - PASS: Response Status code 200 validated
+20230717 16:48:09 INFO  [main] testScripts.AutomationScript AutomationScript.java152 - PASS: Content Type JSON validated
+20230717 16:48:10 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:48:10 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_5
+20230717 16:48:10 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:48:10 INFO  [main] Utilities.Listener Listener.java59 - Listener.onFinish() called
+20230717 16:48:29 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:48:29 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 16:48:29 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 16:48:29 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 16:48:30 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:48:30 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:48:30 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_5
+20230717 16:48:32 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:48:32 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_5
+20230717 16:48:32 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:48:32 INFO  [main] Utilities.Listener Listener.java59 - Listener.onFinish() called
+20230717 16:48:37 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:48:37 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 16:48:37 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 16:48:37 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 16:48:38 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:48:38 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:48:38 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_5
+20230717 16:48:39 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:48:39 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_5
+20230717 16:48:39 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:48:39 INFO  [main] Utilities.Listener Listener.java59 - Listener.onFinish() called
+20230717 16:48:45 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:48:45 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 16:48:45 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 16:48:45 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 16:48:46 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:48:46 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:48:46 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_5
+20230717 16:48:47 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:48:47 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_5
+20230717 16:48:47 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:48:47 INFO  [main] Utilities.Listener Listener.java59 - Listener.onFinish() called
+20230717 16:52:47 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:52:47 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 16:52:47 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 16:52:47 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 16:52:48 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:52:48 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:52:48 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_2
+20230717 16:52:50 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 16:52:50 INFO  [main] testScripts.AutomationScript AutomationScript.java80 - Verified : Status code is 200
+20230717 16:52:50 INFO  [main] testScripts.AutomationScript AutomationScript.java82 - Verified: Response body status is : success
+20230717 16:52:50 INFO  [main] testScripts.AutomationScript AutomationScript.java88 - New user id = 897
+20230717 16:52:50 INFO  [main] testScripts.AutomationScript AutomationScript.java96 - Verified : name,salary and age data from response is as same as in the request
+20230717 16:52:50 INFO  [main] testScripts.AutomationScript AutomationScript.java105 - Created New User with details :
+20230717 16:52:50 INFO  [main] testScripts.AutomationScript AutomationScript.java106 - Arjun
+20230717 16:52:50 INFO  [main] testScripts.AutomationScript AutomationScript.java107 - 10000
+20230717 16:52:50 INFO  [main] testScripts.AutomationScript AutomationScript.java108 - 25
+20230717 16:52:50 INFO  [main] Utilities.Listener Listener.java36 - Listener.onTestSucess() called
+20230717 16:52:50 INFO  [main] Utilities.Listener Listener.java37 - PASSED : testcase_2
+20230717 16:52:50 INFO  [main] Utilities.Listener Listener.java38 - -------------------------------------------
+20230717 16:52:50 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:52:50 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:52:50 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_1
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:52:51 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_1
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_4
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:52:51 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_4
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_5
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:52:51 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_5
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:52:51 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_3
+20230717 16:52:52 INFO  [main] testScripts.AutomationScript AutomationScript.java118 - Response status code = 429
+20230717 16:52:52 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:52:52 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_3
+20230717 16:52:52 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:52:52 INFO  [main] Utilities.Listener Listener.java64 - Listener.onFinish() called
+20230717 16:54:54 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:54:54 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 16:54:54 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 16:54:54 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 16:54:55 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:54:55 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:54:55 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_2
+20230717 16:54:56 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 16:54:56 INFO  [main] testScripts.AutomationScript AutomationScript.java80 - Verified : Status code is 200
+20230717 16:54:57 INFO  [main] testScripts.AutomationScript AutomationScript.java82 - Verified: Response body status is : success
+20230717 16:54:57 INFO  [main] testScripts.AutomationScript AutomationScript.java88 - New user id = 9797
+20230717 16:54:57 INFO  [main] testScripts.AutomationScript AutomationScript.java96 - Verified : name,salary and age data from response is as same as in the request
+20230717 16:54:57 INFO  [main] testScripts.AutomationScript AutomationScript.java105 - Created New User with details :
+20230717 16:54:57 INFO  [main] testScripts.AutomationScript AutomationScript.java106 - Arjun
+20230717 16:54:57 INFO  [main] testScripts.AutomationScript AutomationScript.java107 - 10000
+20230717 16:54:57 INFO  [main] testScripts.AutomationScript AutomationScript.java108 - 25
+20230717 16:54:57 INFO  [main] Utilities.Listener Listener.java36 - Listener.onTestSucess() called
+20230717 16:54:57 INFO  [main] Utilities.Listener Listener.java37 - PASSED : testcase_2
+20230717 16:54:57 INFO  [main] Utilities.Listener Listener.java38 - -------------------------------------------
+20230717 16:54:57 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:54:57 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:54:57 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_1
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:54:58 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_1
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_4
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:54:58 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_4
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_5
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:54:58 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_5
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:54:58 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_3
+20230717 16:54:59 INFO  [main] testScripts.AutomationScript AutomationScript.java118 - Response status code = 429
+20230717 16:54:59 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:54:59 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_3
+20230717 16:54:59 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:54:59 INFO  [main] Utilities.Listener Listener.java64 - Listener.onFinish() called
+20230717 16:56:09 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 16:56:09 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 16:56:09 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 16:56:10 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 16:56:10 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:56:10 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:56:10 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_2
+20230717 16:56:12 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 16:56:12 INFO  [main] testScripts.AutomationScript AutomationScript.java80 - Verified : Status code is 200
+20230717 16:56:13 INFO  [main] testScripts.AutomationScript AutomationScript.java82 - Verified: Response body status is : success
+20230717 16:56:13 INFO  [main] testScripts.AutomationScript AutomationScript.java88 - New user id = 7982
+20230717 16:56:13 INFO  [main] testScripts.AutomationScript AutomationScript.java96 - Verified : name,salary and age data from response is as same as in the request
+20230717 16:56:13 INFO  [main] testScripts.AutomationScript AutomationScript.java105 - Created New User with details :
+20230717 16:56:13 INFO  [main] testScripts.AutomationScript AutomationScript.java106 - Arjun
+20230717 16:56:13 INFO  [main] testScripts.AutomationScript AutomationScript.java107 - 10000
+20230717 16:56:13 INFO  [main] testScripts.AutomationScript AutomationScript.java108 - 25
+20230717 16:56:13 INFO  [main] Utilities.Listener Listener.java36 - Listener.onTestSucess() called
+20230717 16:56:13 INFO  [main] Utilities.Listener Listener.java37 - PASSED : testcase_2
+20230717 16:56:13 INFO  [main] Utilities.Listener Listener.java38 - -------------------------------------------
+20230717 16:56:13 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:56:13 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:56:13 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_1
+20230717 16:56:13 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:56:13 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_1
+20230717 16:56:13 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:56:13 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:56:13 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:56:13 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_4
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:56:14 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_4
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_5
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:56:14 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_5
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_3
+20230717 16:56:14 INFO  [main] testScripts.AutomationScript AutomationScript.java118 - Response status code = 429
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 16:56:14 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_3
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 16:56:14 INFO  [main] Utilities.Listener Listener.java64 - Listener.onFinish() called
+20230717 17:00:06 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 17:00:06 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 17:00:06 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 17:00:07 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 17:00:07 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 17:00:07 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 17:00:07 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_2
+20230717 17:00:09 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 17:00:10 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 17:00:10 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_2
+20230717 17:00:10 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 17:00:10 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 17:00:10 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 17:00:10 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_1
+20230717 17:00:11 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 17:00:11 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_1
+20230717 17:00:11 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 17:00:11 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 17:00:11 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 17:00:11 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_4
+20230717 17:00:11 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 17:00:11 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_4
+20230717 17:00:11 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 17:00:11 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 17:00:11 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 17:00:11 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_5
+20230717 17:00:12 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 17:00:12 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_5
+20230717 17:00:12 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 17:00:12 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 17:00:12 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 17:00:12 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_3
+20230717 17:00:12 INFO  [main] Utilities.Listener Listener.java57 - Listener.onTestSkipped() called
+20230717 17:00:12 ERROR [main] Utilities.Listener Listener.java58 - SKIPPED : testcase_3
+20230717 17:00:12 INFO  [main] Utilities.Listener Listener.java59 - -------------------------------------------
+20230717 17:00:12 INFO  [main] Utilities.Listener Listener.java64 - Listener.onFinish() called
+20230717 17:00:56 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 17:00:56 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 17:00:56 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 17:00:56 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 17:00:56 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 17:00:57 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 17:00:57 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_1
+20230717 17:00:59 INFO  [main] testScripts.AutomationScript AutomationScript.java51 - Validation Passed : Response status is : success
+20230717 17:00:59 INFO  [main] testScripts.AutomationScript AutomationScript.java53 - Response status = success
+20230717 17:00:59 INFO  [main] testScripts.AutomationScript AutomationScript.java55 - No. of data Records = 24
+20230717 17:00:59 INFO  [main] testScripts.AutomationScript AutomationScript.java59 - Response status from pojo = success
+20230717 17:00:59 INFO  [main] testScripts.AutomationScript AutomationScript.java60 - Response Message from pojo = Successfully! All records has been fetched.
+20230717 17:00:59 INFO  [main] Utilities.Listener Listener.java36 - Listener.onTestSucess() called
+20230717 17:00:59 INFO  [main] Utilities.Listener Listener.java37 - PASSED : testcase_1
+20230717 17:00:59 INFO  [main] Utilities.Listener Listener.java38 - -------------------------------------------
+20230717 17:00:59 INFO  [main] Utilities.Listener Listener.java64 - Listener.onFinish() called
+20230717 17:01:33 INFO  [main] helperClasses.BaseClass BaseClass.java19 - Log 4 J logger started
+20230717 17:01:33 INFO  [main] Utilities.Listener Listener.java20 - log 4 j ready .
+20230717 17:01:33 INFO  [main] Utilities.Listener Listener.java21 - Listener.onStart() called
+20230717 17:01:33 INFO  [main] Utilities.Listener Listener.java24 - Extent Report ready.. 
+20230717 17:01:33 INFO  [main] Utilities.Listener Listener.java28 - -------------------------------------------
+20230717 17:01:33 INFO  [main] Utilities.Listener Listener.java29 - Listener.onTestStart() called
+20230717 17:01:33 INFO  [main] Utilities.Listener Listener.java30 - Started Testing ---> testcase_2
+20230717 17:01:35 INFO  [main] testScripts.AutomationScript AutomationScript.java78 - Request sent: POST create 
+20230717 17:01:35 INFO  [main] Utilities.Listener Listener.java44 - Listener.onTestFailure() called
+20230717 17:01:35 ERROR [main] Utilities.Listener Listener.java45 - FAILED : testcase_2
+20230717 17:01:35 INFO  [main] Utilities.Listener Listener.java46 - -------------------------------------------
+20230717 17:01:35 INFO  [main] Utilities.Listener Listener.java64 - Listener.onFinish() called
