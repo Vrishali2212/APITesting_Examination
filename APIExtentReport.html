@@ -35,7 +35,7 @@
 <a href="#"><span class="badge badge-primary">Extent Report for API Testing QA </span></a>
 </li>
 <li class="m-r-10">
-<a href="#"><span class="badge badge-primary">Jul 17, 2023 06:01:53 PM</span></a>
+<a href="#"><span class="badge badge-primary">Jul 17, 2023 10:25:40 PM</span></a>
 </li>
 </ul>
 </div>
@@ -80,25 +80,25 @@
 </ul>
 </div>    <div class="test-list-wrapper scrollable">
       <ul class="test-list-item">
-        <li class="test-item"  status="pass" test-id="1"
+        <li class="test-item"  status="fail" test-id="1"
           author=""
           tag=""
           device="">
           <div class="test-detail">
             <p class="name">testcase_2</p>
             <p class="text-sm">
-              <span>6:01:53 PM</span> / <span>00:00:03:202</span>
-              <span class="badge pass-bg log float-right">Pass</span>
+              <span>10:25:40 PM</span> / <span>00:00:02:394</span>
+              <span class="badge fail-bg log float-right">Fail</span>
             </p>
           </div>
           <div class="test-contents d-none">
 <div class="detail-head">
 <div class="p-v-10">
 <div class="info">
-<h5 class="test-status text-pass">testcase_2</h5>
-<span class='badge badge-success'>07.17.2023 6:01:53 PM</span>
-<span class='badge badge-danger'>07.17.2023 6:01:56 PM</span>
-<span class='badge badge-default'>00:00:03:202</span>
+<h5 class="test-status text-fail">testcase_2</h5>
+<span class='badge badge-success'>07.17.2023 10:25:40 PM</span>
+<span class='badge badge-danger'>07.17.2023 10:25:43 PM</span>
+<span class='badge badge-default'>00:00:02:394</span>
 &middot; <span class='uri-anchor badge badge-default'>#test-id=1</span>
 <span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
 <span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
@@ -110,16 +110,100 @@
   <tbody>
       <tr class="event-row">
         <td><span class="badge log info-bg">Info</span></td>
-        <td>6:01:53 PM</td>
+        <td>10:25:40 PM</td>
         <td>
           <span class='badge white-text cyan'>testcase_2 : Starting test :testcase_2</span>
         </td>
       </tr>
       <tr class="event-row">
-        <td><span class="badge log pass-bg">Pass</span></td>
-        <td>6:01:56 PM</td>
+        <td><span class="badge log fail-bg">Fail</span></td>
+        <td>10:25:43 PM</td>
         <td>
-          <span class='badge white-text green'>PASS :  testcase_2</span>
+          <textarea readonly class="code-block">java.lang.AssertionError: 1 expectation failed.
+Expected status code <200> but was <429>.
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:72)
+	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:105)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallConstructor(CallSiteArray.java:59)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:263)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:499)
+	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:47)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:139)
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:684)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:193)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:61)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:51)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:171)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:127)
+	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:51)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:171)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+	at io.restassured.internal.ValidatableResponseImpl.super$2$statusCode(ValidatableResponseImpl.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:107)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1268)
+	at org.codehaus.groovy.runtime.ScriptBytecodeAdapter.invokeMethodOnSuperN(ScriptBytecodeAdapter.java:144)
+	at io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)
+	at io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)
+	at com.APITestingExamination.testScripts.AutomationScript.testcase_2(AutomationScript.java:100)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:806)
+	at org.testng.TestRunner.run(TestRunner.java:601)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+	at org.testng.TestNG.runSuites(TestNG.java:1099)
+	at org.testng.TestNG.run(TestNG.java:1067)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</textarea>
+          
+        </td>
+      </tr>
+      <tr class="event-row">
+        <td><span class="badge log fail-bg">Fail</span></td>
+        <td>10:25:43 PM</td>
+        <td>
+          <span class='badge white-text red'>FAIL :  testcase_2</span>
         </td>
       </tr>
   </tbody>
@@ -134,7 +218,7 @@
           <div class="test-detail">
             <p class="name">testcase_1</p>
             <p class="text-sm">
-              <span>6:01:56 PM</span> / <span>00:00:00:346</span>
+              <span>10:25:43 PM</span> / <span>00:00:00:385</span>
               <span class="badge fail-bg log float-right">Fail</span>
             </p>
           </div>
@@ -143,9 +227,9 @@
 <div class="p-v-10">
 <div class="info">
 <h5 class="test-status text-fail">testcase_1</h5>
-<span class='badge badge-success'>07.17.2023 6:01:56 PM</span>
-<span class='badge badge-danger'>07.17.2023 6:01:57 PM</span>
-<span class='badge badge-default'>00:00:00:346</span>
+<span class='badge badge-success'>07.17.2023 10:25:43 PM</span>
+<span class='badge badge-danger'>07.17.2023 10:25:43 PM</span>
+<span class='badge badge-default'>00:00:00:385</span>
 &middot; <span class='uri-anchor badge badge-default'>#test-id=2</span>
 <span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
 <span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
@@ -157,14 +241,14 @@
   <tbody>
       <tr class="event-row">
         <td><span class="badge log info-bg">Info</span></td>
-        <td>6:01:56 PM</td>
+        <td>10:25:43 PM</td>
         <td>
           <span class='badge white-text cyan'>testcase_1 : Starting test :testcase_1</span>
         </td>
       </tr>
       <tr class="event-row">
         <td><span class="badge log fail-bg">Fail</span></td>
-        <td>6:01:57 PM</td>
+        <td>10:25:43 PM</td>
         <td>
           <textarea readonly class="code-block">java.lang.AssertionError: 1 expectation failed.
 Expected status code <200> but was <429>.
@@ -176,8 +260,6 @@ Expected status code <200> but was <429>.
 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
 	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:72)
 	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:105)
-	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallConstructor(CallSiteArray.java:59)
-	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:263)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
 	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:499)
 	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
@@ -240,7 +322,7 @@ Expected status code <200> but was <429>.
       </tr>
       <tr class="event-row">
         <td><span class="badge log fail-bg">Fail</span></td>
-        <td>6:01:57 PM</td>
+        <td>10:25:43 PM</td>
         <td>
           <span class='badge white-text red'>FAIL :  testcase_1</span>
         </td>
@@ -257,7 +339,7 @@ Expected status code <200> but was <429>.
           <div class="test-detail">
             <p class="name">testcase_4</p>
             <p class="text-sm">
-              <span>6:01:57 PM</span> / <span>00:00:00:269</span>
+              <span>10:25:43 PM</span> / <span>00:00:00:297</span>
               <span class="badge fail-bg log float-right">Fail</span>
             </p>
           </div>
@@ -266,9 +348,9 @@ Expected status code <200> but was <429>.
 <div class="p-v-10">
 <div class="info">
 <h5 class="test-status text-fail">testcase_4</h5>
-<span class='badge badge-success'>07.17.2023 6:01:57 PM</span>
-<span class='badge badge-danger'>07.17.2023 6:01:57 PM</span>
-<span class='badge badge-default'>00:00:00:269</span>
+<span class='badge badge-success'>07.17.2023 10:25:43 PM</span>
+<span class='badge badge-danger'>07.17.2023 10:25:43 PM</span>
+<span class='badge badge-default'>00:00:00:297</span>
 &middot; <span class='uri-anchor badge badge-default'>#test-id=3</span>
 <span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
 <span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
@@ -280,14 +362,14 @@ Expected status code <200> but was <429>.
   <tbody>
       <tr class="event-row">
         <td><span class="badge log info-bg">Info</span></td>
-        <td>6:01:57 PM</td>
+        <td>10:25:43 PM</td>
         <td>
           <span class='badge white-text cyan'>testcase_4 : Starting test :testcase_4</span>
         </td>
       </tr>
       <tr class="event-row">
         <td><span class="badge log fail-bg">Fail</span></td>
-        <td>6:01:57 PM</td>
+        <td>10:25:43 PM</td>
         <td>
           <textarea readonly class="code-block">java.lang.AssertionError: 1 expectation failed.
 Expected status code <400> but was <429>.
@@ -361,7 +443,7 @@ Expected status code <400> but was <429>.
       </tr>
       <tr class="event-row">
         <td><span class="badge log fail-bg">Fail</span></td>
-        <td>6:01:57 PM</td>
+        <td>10:25:43 PM</td>
         <td>
           <span class='badge white-text red'>FAIL :  testcase_4</span>
         </td>
@@ -378,7 +460,7 @@ Expected status code <400> but was <429>.
           <div class="test-detail">
             <p class="name">testcase_5</p>
             <p class="text-sm">
-              <span>6:01:57 PM</span> / <span>00:00:00:313</span>
+              <span>10:25:43 PM</span> / <span>00:00:00:327</span>
               <span class="badge fail-bg log float-right">Fail</span>
             </p>
           </div>
@@ -387,9 +469,9 @@ Expected status code <400> but was <429>.
 <div class="p-v-10">
 <div class="info">
 <h5 class="test-status text-fail">testcase_5</h5>
-<span class='badge badge-success'>07.17.2023 6:01:57 PM</span>
-<span class='badge badge-danger'>07.17.2023 6:01:57 PM</span>
-<span class='badge badge-default'>00:00:00:313</span>
+<span class='badge badge-success'>07.17.2023 10:25:43 PM</span>
+<span class='badge badge-danger'>07.17.2023 10:25:44 PM</span>
+<span class='badge badge-default'>00:00:00:327</span>
 &middot; <span class='uri-anchor badge badge-default'>#test-id=4</span>
 <span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
 <span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
@@ -401,14 +483,14 @@ Expected status code <400> but was <429>.
   <tbody>
       <tr class="event-row">
         <td><span class="badge log info-bg">Info</span></td>
-        <td>6:01:57 PM</td>
+        <td>10:25:43 PM</td>
         <td>
           <span class='badge white-text cyan'>testcase_5 : Starting test :testcase_5</span>
         </td>
       </tr>
       <tr class="event-row">
         <td><span class="badge log fail-bg">Fail</span></td>
-        <td>6:01:57 PM</td>
+        <td>10:25:44 PM</td>
         <td>
           <textarea readonly class="code-block">java.lang.AssertionError: 1 expectation failed.
 Expected status code <200> but was <429>.
@@ -482,7 +564,7 @@ Expected status code <200> but was <429>.
       </tr>
       <tr class="event-row">
         <td><span class="badge log fail-bg">Fail</span></td>
-        <td>6:01:57 PM</td>
+        <td>10:25:44 PM</td>
         <td>
           <span class='badge white-text red'>FAIL :  testcase_5</span>
         </td>
@@ -492,25 +574,25 @@ Expected status code <200> but was <429>.
 </div>
           </div>
         </li>
-        <li class="test-item"  status="fail" test-id="5"
+        <li class="test-item"  status="pass" test-id="5"
           author=""
           tag=""
           device="">
           <div class="test-detail">
             <p class="name">testcase_3</p>
             <p class="text-sm">
-              <span>6:01:57 PM</span> / <span>00:00:00:256</span>
-              <span class="badge fail-bg log float-right">Fail</span>
+              <span>10:25:44 PM</span> / <span>00:00:00:017</span>
+              <span class="badge pass-bg log float-right">Pass</span>
             </p>
           </div>
           <div class="test-contents d-none">
 <div class="detail-head">
 <div class="p-v-10">
 <div class="info">
-<h5 class="test-status text-fail">testcase_3</h5>
-<span class='badge badge-success'>07.17.2023 6:01:57 PM</span>
-<span class='badge badge-danger'>07.17.2023 6:01:58 PM</span>
-<span class='badge badge-default'>00:00:00:256</span>
+<h5 class="test-status text-pass">testcase_3</h5>
+<span class='badge badge-success'>07.17.2023 10:25:44 PM</span>
+<span class='badge badge-danger'>07.17.2023 10:25:44 PM</span>
+<span class='badge badge-default'>00:00:00:017</span>
 &middot; <span class='uri-anchor badge badge-default'>#test-id=5</span>
 <span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
 <span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
@@ -522,90 +604,16 @@ Expected status code <200> but was <429>.
   <tbody>
       <tr class="event-row">
         <td><span class="badge log info-bg">Info</span></td>
-        <td>6:01:57 PM</td>
+        <td>10:25:44 PM</td>
         <td>
           <span class='badge white-text cyan'>testcase_3 : Starting test :testcase_3</span>
         </td>
       </tr>
       <tr class="event-row">
-        <td><span class="badge log fail-bg">Fail</span></td>
-        <td>6:01:58 PM</td>
+        <td><span class="badge log info-bg">Info</span></td>
+        <td>10:25:44 PM</td>
         <td>
-          <textarea readonly class="code-block">java.lang.AssertionError: 1 expectation failed.
-Expected status code <200> but was <429>.
-
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-	at org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:72)
-	at org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrapNoCoerce.callConstructor(ConstructorSite.java:105)
-	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)
-	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure.validate(ResponseSpecificationImpl.groovy:499)
-	at io.restassured.internal.ResponseSpecificationImpl$HamcrestAssertionClosure$validate$1.call(Unknown Source)
-	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:684)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite.doInvoke(PlainObjectMetaMethodSite.java:43)
-	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce.invoke(PogoMetaMethodSite.java:193)
-	at org.codehaus.groovy.runtime.callsite.PogoMetaMethodSite.callCurrent(PogoMetaMethodSite.java:61)
-	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:185)
-	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:127)
-	at io.restassured.specification.ResponseSpecification$statusCode$0.callCurrent(Unknown Source)
-	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
-	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
-	at io.restassured.internal.ValidatableResponseImpl.super$2$statusCode(ValidatableResponseImpl.groovy)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:107)
-	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)
-	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1268)
-	at org.codehaus.groovy.runtime.ScriptBytecodeAdapter.invokeMethodOnSuperN(ScriptBytecodeAdapter.java:144)
-	at io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)
-	at io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)
-	at com.APITestingExamination.testScripts.AutomationScript.testcase_3(AutomationScript.java:140)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-	at org.testng.TestRunner.privateRun(TestRunner.java:806)
-	at org.testng.TestRunner.run(TestRunner.java:601)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:330)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
-	at org.testng.TestNG.runSuites(TestNG.java:1099)
-	at org.testng.TestNG.run(TestNG.java:1067)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</textarea>
-          
-        </td>
-      </tr>
-      <tr class="event-row">
-        <td><span class="badge log fail-bg">Fail</span></td>
-        <td>6:01:58 PM</td>
-        <td>
-          <span class='badge white-text red'>FAIL :  testcase_3</span>
+          <span class='badge white-text cyan'>testcase_3 : SKIPPED</span>
         </td>
       </tr>
   </tbody>
@@ -654,30 +662,30 @@ Expected status code <200> but was <429>.
 <tbody>
 <tr class="tag-test-status" status="fail">
 <td><span class="badge log fail-bg">Fail</span></td>
-<td>18:01:56 PM</td>
+<td>22:25:40 PM</td>
+<td>
+<a href="#" class="linked" test-id='1' id='1'>testcase_2</a>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>22:25:43 PM</td>
 <td>
 <a href="#" class="linked" test-id='2' id='2'>testcase_1</a>
 </td>
 </tr>
 <tr class="tag-test-status" status="fail">
 <td><span class="badge log fail-bg">Fail</span></td>
-<td>18:01:57 PM</td>
+<td>22:25:43 PM</td>
 <td>
 <a href="#" class="linked" test-id='3' id='3'>testcase_4</a>
 </td>
 </tr>
 <tr class="tag-test-status" status="fail">
 <td><span class="badge log fail-bg">Fail</span></td>
-<td>18:01:57 PM</td>
+<td>22:25:43 PM</td>
 <td>
 <a href="#" class="linked" test-id='4' id='4'>testcase_5</a>
-</td>
-</tr>
-<tr class="tag-test-status" status="fail">
-<td><span class="badge log fail-bg">Fail</span></td>
-<td>18:01:57 PM</td>
-<td>
-<a href="#" class="linked" test-id='5' id='5'>testcase_3</a>
 </td>
 </tr>
 </tbody>
@@ -697,13 +705,13 @@ Expected status code <200> but was <429>.
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Started</p>
-<h3>Jul 17, 2023 06:01:53 PM</h3>
+<h3>Jul 17, 2023 10:25:40 PM</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Ended</p>
-<h3>Jul 17, 2023 06:01:58 PM</h3>
+<h3>Jul 17, 2023 10:25:44 PM</h3>
 </div></div>
 </div>
 <div class="col-md-3">
@@ -754,10 +762,10 @@ Expected status code <200> but was <429>.
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='7%'><b>1</b> events passed</small></div>
+<div><small data-tooltip='0%'><b>0</b> events passed</small></div>
 <div>
 <small data-tooltip='57%'><b>8</b> events failed,
-<b data-tooltip='%'>5</b> others
+<b data-tooltip='%'>6</b> others
 </small>
 </div>
 </div>
@@ -773,7 +781,7 @@ Expected status code <200> but was <429>.
 </div></div>
 <script>
 var timeline = {
-"testcase_2":3.202,"testcase_1":0.346,"testcase_4":0.269,"testcase_5":0.313,"testcase_3":0.256
+"testcase_2":2.394,"testcase_1":0.385,"testcase_4":0.297,"testcase_5":0.327,"testcase_3":0.017
 };
 </script>
 <div class="row">
@@ -825,11 +833,11 @@ warningGrandChild: 0,
 skipGrandChild: 0,
 infoGrandChild: 0,
 eventsCount: 5,
-passEvents: 1,
+passEvents: 0,
 failEvents: 8,
 warningEvents: 0,
 skipEvents: 0,
-infoEvents: 5
+infoEvents: 6
 };
 </script>        </div>
       </div>
